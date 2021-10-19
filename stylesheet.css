@@ -15,6 +15,7 @@ a{
     text-decoration: none;
     border-bottom: .1em dotted goldenrod;
 }
+
 ul{
-    list-style-image: url(images/minecraft_logo.png) ;
+    list-style-image: url(images/) ;
 }
