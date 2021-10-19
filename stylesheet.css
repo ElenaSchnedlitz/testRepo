@@ -1,0 +1,20 @@
+div p{
+    font-family: "Georgia", "serif";
+    font-size: 100%
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+    transform: translate(0px,800px);
+
+}
+h1{
+    color: goldenrod;
+}
+a{
+    text-decoration: none;
+    border-bottom: .1em dotted goldenrod;
+}
+ul{
+    list-style-image: url(images/minecraft_logo.png) ;
+}
